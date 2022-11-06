@@ -2,7 +2,8 @@
 
 
 body {
-    background-color: cadetblue;
+    background-image:url("https://www.fightersgeneration.com/nf9/game/stage/mk3-stage-temple.gif");
+    background-position: center;
     font-family: 'Rajdhani', sans-serif;
 }
 
@@ -61,7 +62,7 @@ button {
     border: 1px solid #04AA6D;
     padding: 0.375rem 0.75rem;
     font-size: 1rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     color: #fff;
     width: 100%;
     margin-top: 20px;
@@ -78,7 +79,7 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
-    transition: color .25s ease-in-out,background-color .25s ease-in-out,border-color .25s ease-in-out,box-shadow .25s ease-in-out;
+    transition: color .25s ease-in-out, background-color .25s ease-in-out, border-color .25s ease-in-out, box-shadow .25s ease-in-out;
 
 }
 
