@@ -1,0 +1,8 @@
+<h2>Choose warriors who will fight against each others</h2>
+<form action="/arena/fight" method="POST">
+    {{> warrior-select select-name="warrior1"}}
+    {{> warrior-select select-name="warrior2"}}
+    <br>
+    <br>
+    <button type="submit">FIGHT!</button>
+</form>
